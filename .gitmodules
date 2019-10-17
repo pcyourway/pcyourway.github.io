@@ -1,0 +1,3 @@
+[submodule "static/fonts/manrope"]
+	path = static/fonts/manrope
+	url = https://github.com/sharanda/manrope.git
